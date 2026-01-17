@@ -6,7 +6,7 @@ A comprehensive, modular, cloud-ready Hospital Operating System built during a 5
 
 ## 📌 Project Context
 
-- **Event:** 50-Hour Med-Tech Makeathon
+- **Event:** 50-Hour MedAIThon 
 - **Category:** HealthTech / MedTech / Hospital Software Systems
 - **Architecture:** Modular, scalable, enterprise-grade
 - **Database:** Supabase (PostgreSQL)
@@ -49,6 +49,10 @@ This system consolidates **55+ hospital workflows** into one unified digital pla
 - **Design Philosophy:** Software-only (no mandatory hardware dependency)
 
 ---
+
+## Flow Chart 
+
+![HMS Flowchart](public/HMS%20FLOWCHART.png)
 
 ## 🔐 Data & Security Principles
 
